@@ -1,5 +1,6 @@
-# Harden WebServer Configuration Files
-These command line tools aim to make Apache and Nginx Web Servers more secure by replacing insecure default configuration files with more secure settings. 
+# ConfigMe
+
+These command line tools aim to harden Apache and Nginx Web Servers by replacing insecure default configurations with more secure settings. 
 
 Right now this suite supports Ubuntu/Debian users but as the project grows we intend to support more operating systems and other open-source web servers. 
 
