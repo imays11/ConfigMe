@@ -1,5 +1,7 @@
 # ConfigMe
 
+![plot](ConfigMe-logo.png)
+
 These command line tools aim to harden Apache and Nginx Web Servers by replacing insecure default configurations with more secure settings. 
 
 Right now this suite supports Ubuntu/Debian users but as the project grows we intend to support more operating systems and other open-source web servers. 
