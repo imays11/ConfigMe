@@ -1,4 +1,4 @@
-# ConfigMe
+# ConfigMe - Web Server Configuration File Hardener
 
 ![plot](ConfigMe-logo.png)
 
