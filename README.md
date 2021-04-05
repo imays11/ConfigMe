@@ -24,6 +24,8 @@ ApachMe is a user-friendly Python script that will harden the configuration sett
 
 ApachMe takes in your path to the directory hosting your configuration files as an argument. It is important that you do not include a specific configuration file in the path, instead you provide the directory that holds the configuration files as we will need to collect more than one file for your system. Your configuration files will likely be in /etc/apache2.
 
+    $ sudo python3 apachme.py -h                #display help menu
+    
     $ sudo python3 apachme.py /etc/apache2      #script will run and show output along the way
     
     $ sudo a2enmod headers                      #enable Apache headers module
@@ -42,6 +44,8 @@ NgFixMe is a user-friendly Python script that will harden the configuration sett
 ### **Usage** 
 
 NgFixMe takes in your path to the directory hosting your configuration files as an argument. It is important that you do not include a specific configuration file in the path, instead you provide the directory that holds the configuration file. Your configuration file will likely be in /etc/nginx.
+
+    $ sudo python3 ngfixme.py -help           #display help menu
 
     $ sudo python3 ngfixme.py /etc/nginx      #script will run and show output along the way
      
