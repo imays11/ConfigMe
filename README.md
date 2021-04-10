@@ -55,4 +55,4 @@ NgFixMe takes in your path to the directory hosting your configuration files as 
 ## Authors
 
 Isai Mays and Kathy Collins authored these scripts. 
-A demonstration of this project by its creators can be found here:
+A demonstration of this project by its creators can be found here:https://www.youtube.com/watch?v=UnFOf-56yTI&list=PLx0iOsdUOUmmlZ9iIuNKJRd5s5oNQ1igl&index=3
